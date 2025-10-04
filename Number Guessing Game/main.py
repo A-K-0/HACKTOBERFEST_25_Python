@@ -4,6 +4,9 @@ n = random.randint(1, 100)
 a = -1
 guesses = 1  
 
+print("Welcome to the guessing game")
+print("Please guess number between 1 - 100")
+
 while(a != n):
     a = int(input("Guess the number: "))
     if(a > n):
