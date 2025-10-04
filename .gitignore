@@ -10,6 +10,7 @@ build/
 
 # Virtual environment
 .venv/
+mp-env/
 
 # Wordlists
 Password-Generator/eff_large_wordlist.txt
