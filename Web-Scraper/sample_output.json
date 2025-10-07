@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Sample News Article Title",
+      "url": "https://example-news.com/article-1",
+      "description": "This is a sample description of the news article. It provides a brief summary of the article content...",
+      "author": "Jane Doe",
+      "date": "2025-10-05",
+      "scraped_at": "2025-10-05T14:30:00"
+    },
+    {
+      "id": 2,
+      "title": "Another Breaking News Story",
+      "url": "https://example-news.com/article-2",
+      "description": "Another sample article demonstrating the JSON output format with all relevant fields extracted...",
+      "author": "John Smith",
+      "date": "2025-10-05",
+      "scraped_at": "2025-10-05T14:30:05"
+    }
+  ],
+  "metadata": {
+    "total_articles": 2,
+    "source_url": "https://example-news.com",
+    "scraped_at": "2025-10-05T14:30:00",
+    "scraper_version": "1.0.0"
+  }
+}
